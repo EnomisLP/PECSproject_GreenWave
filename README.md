@@ -56,7 +56,7 @@ ior of modules is implemented in C++, while the network topology and connections
 
 ---
 
-## 🧬 Experiment Design: 2³ Factorial Analysis
+##  Experiment Design: 2³ Factorial Analysis
 
 To evaluate how different parameters affect vehicle travel time, we apply a **2³ factorial design** to both the **constant speed** and **variable speed** scenarios. The three independent factors are:
 
