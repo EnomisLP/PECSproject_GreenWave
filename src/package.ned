@@ -1,0 +1,3 @@
+package pecsproject;
+
+@license(LGPL);
